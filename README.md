@@ -1,5 +1,5 @@
 # LMR_paper
-This repository provide a more details and support information about the data and the code that we used in your Land Mobile Radio Paper.
+This repository provide a more details and support information about the data and the code that we used in our Land Mobile Radio Paper.
 
 ## Dataset descriptions
 
